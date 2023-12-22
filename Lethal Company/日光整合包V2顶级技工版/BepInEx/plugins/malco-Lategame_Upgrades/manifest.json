@@ -1,0 +1,11 @@
+{
+  "name": "Lategame_Upgrades",
+  "version_number": "2.5.1",
+  "website_url": "https://github.com/Malcolm-Q/LC-LateGameUpgrades",
+  "description": "V2.5.0 : Configurable individual upgrades.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.6.2",
+    "Evaisa-HookGenPatcher-0.0.5"
+  ]
+}

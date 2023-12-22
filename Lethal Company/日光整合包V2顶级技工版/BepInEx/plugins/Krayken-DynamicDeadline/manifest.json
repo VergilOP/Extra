@@ -1,0 +1,9 @@
+{
+    "name": "DynamicDeadline",
+    "version_number": "1.2.2",
+    "website_url": "https://github.com/Kraykennn/LC-DynamicDeadline",
+    "description": "Just a simple mod to have the deadline increase with the quota",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

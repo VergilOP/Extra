@@ -1,0 +1,12 @@
+{
+  "name": "MirrorDecor",
+  "author": "quackandcheese",
+  "version_number": "1.1.5",
+  "website_url": "",
+  "description": "Adds a working mirror decoration that you can buy for your ship!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "Evaisa-LethalLib-0.4.5"
+  ]
+}

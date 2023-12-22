@@ -1,0 +1,9 @@
+{
+    "name": "TZPReworkedHealing",
+    "version_number": "1.2.0",
+    "website_url": "",
+    "description": "Reworked TZP Inhaler that can heal you with fuel indicator",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Glowstick",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "Adds a glowstick item to the shop",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"NotAtomicBomb-TerminalApi-1.2.0",
+		"2018-LC_API-2.1.1"
+	]
+}

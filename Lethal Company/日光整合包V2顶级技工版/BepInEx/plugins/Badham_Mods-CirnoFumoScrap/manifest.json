@@ -1,0 +1,11 @@
+{
+    "name": "CirnoFumoScrap",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/Badhamknibbs/Cirno-Fumo-Scrap-mod_LC",
+    "description": "Adds the funny little ice fairy as scrap to find.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"Evaisa-LethalLib-0.2.1",
+		"Evaisa-HookGenPatcher-0.0.5"
+    ]
+}

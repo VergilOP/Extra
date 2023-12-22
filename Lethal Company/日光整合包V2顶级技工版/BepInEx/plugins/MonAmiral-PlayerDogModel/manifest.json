@@ -1,0 +1,10 @@
+﻿{
+  "name": "PlayerDogModel",
+  "version_number": "0.3.1",
+  "website_url": "https://github.com/MonAmiral/PlayerDogModel",
+  "description": "It's a dog's life out there, literally!",
+  "dependencies": [
+  "BepInEx-BepInExPack-5.4.2100",
+  "2018-LC_API-1.4.0"
+  ]
+}

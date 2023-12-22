@@ -1,0 +1,9 @@
+{
+  "name": "LaterNights",
+  "version_number": "0.9.1",
+  "website_url": "",
+  "description": "Make your nights last longer",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

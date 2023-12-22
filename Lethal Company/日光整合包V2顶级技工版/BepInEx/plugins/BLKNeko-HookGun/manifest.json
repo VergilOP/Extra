@@ -1,0 +1,11 @@
+{
+    "name": "HookGun",
+    "version_number": "1.1.2",
+    "website_url": "https://github.com/BLKNeko/LC-HookGun",
+    "description": "A HookGun for LethalCompany, maybe a LethalHook? - THE COMPANY APPROVES!!!",
+    "dependencies": [
+        "Evaisa-LethalLib-0.5.1",
+        "BepInEx-BepInExPack-5.4.2100",
+        "2018-LC_API-2.1.1"    
+    ]
+}

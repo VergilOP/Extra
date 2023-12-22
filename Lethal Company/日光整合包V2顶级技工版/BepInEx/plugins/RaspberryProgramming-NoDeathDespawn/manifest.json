@@ -1,0 +1,9 @@
+{
+    "name": "NoDeathDespawn",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/RaspberryProgramming/NoDeathDespawn",
+    "description": "A mod for Lethal Company which prevents scrap from despawning after a round when all players die.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }

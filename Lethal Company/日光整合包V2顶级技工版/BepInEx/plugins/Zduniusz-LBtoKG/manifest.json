@@ -1,0 +1,9 @@
+{
+    "name": "LBtoKG",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "View your items weight in kilograms",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

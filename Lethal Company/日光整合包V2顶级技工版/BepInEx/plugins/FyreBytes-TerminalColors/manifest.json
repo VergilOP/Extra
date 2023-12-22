@@ -1,0 +1,9 @@
+{
+  "name": "TerminalColors",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Change terminal text and glow colors",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

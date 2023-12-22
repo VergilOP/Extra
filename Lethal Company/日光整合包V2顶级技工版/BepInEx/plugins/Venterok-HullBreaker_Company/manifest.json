@@ -1,0 +1,9 @@
+{
+  "name": "HullBreaker_Company",
+  "version_number": "1.3.9",
+  "website_url": "https://github.com/Venterok/HullBreakerCompany",
+  "description": "Making it more challenging to work for the company",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
